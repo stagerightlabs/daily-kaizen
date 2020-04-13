@@ -1,0 +1,211 @@
+take(enumerable, amount) | Enum | Elixir
+chunk_by(enumerable, fun) | Enum | Elixir
+String.prototype.normalize() | String | Javascript
+Template Strings | ES6 | Javascript
+Object.prototype.hasOwnProperty() | Object | Javascript
+reverse(enumerable) | Enum | Elixir
+concat(enumerables) | Enum | Elixir
+Set | General | Javascript
+Array.of() | Array | Javascript
+fetch!(enumerable, index) | Enum | Elixir
+find_index(enumerable, fun) | Enum | Elixir
+Array.prototype.unshift() | Array | Javascript
+any?(enumerable, fun \\ fn x -> x end) | Enum | Elixir
+String.prototype.charCodeAt() | String | Javascript
+Number.prototype.toPrecision() | Number | Javascript
+String.prototype.trim() | String | Javascript
+find_value(enumerable, default \\ nil, fun) | Enum | Elixir
+String.prototype.codePointAt() | String | Javascript
+reject(enumerable, fun) | Enum | Elixir
+Proxy | General | Javascript
+String.prototype.repeat() | String | Javascript
+Rest Operator | ES6 | Javascript
+String.prototype.lastIndexOf() | String | Javascript
+Array.isArray() | Array | Javascript
+String.prototype.startsWith() | String | Javascript
+slice(enumerable, start_index, amount) | Enum | Elixir
+take_while(enumerable, fun) | Enum | Elixir
+reverse(enumerable, tail) | Enum | Elixir
+String.prototype.toLocaleUpperCase() | String | Javascript
+Array.prototype.findIndex() | Array | Javascript
+Object.isSealed() | Object | Javascript
+String.prototype.trimStart() | String | Javascript
+Array.prototype.join() | Array | Javascript
+String.prototype.localeCompare() | String | Javascript
+Object.getOwnPropertyDescriptor() | Object | Javascript
+Object.prototype.propertyIsEnumerable() | Object | Javascript
+String.prototype.toLowerCase() | String | Javascript
+Array.prototype.map() | Array | Javascript
+String.prototype.padStart() | String | Javascript
+Arity | General | Elixir
+Array.prototype.toString() | Array | Javascript
+frequencies_by(enumerable, key_fun) | Enum | Elixir
+Number.isFinite() | Number | Javascript
+Class Inheritance | General | Javascript
+let vs const vs var | ES6 | Javascript
+V-on | General | Vue
+Object.isExtensible() | Object | Javascript
+chunk_while(enumerable, acc, chunk_fun, after_fun) | Enum | Elixir
+V-for | General | Vue
+frequencies(enumerable) | Enum | Elixir
+Object.fromEntries() | Object | Javascript
+Promises | ES6 | Javascript
+reduce(enumerable, fun) | Enum | Elixir
+Map | Types | Elixir
+map_join(enumerable, joiner \\ "", mapper) | Enum | Elixir
+max(enumerable, sorter \\ &>=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
+map_intersperse(enumerable, separator, mapper) | Enum | Elixir
+String.prototype.toString() | String | Javascript
+at(enumerable, index, default \\ nil) | Enum | Elixir
+Style Bindings | General | Vue
+join(enumerable, joiner \\ "") | Enum | Elixir
+Event Modifiers | General | Vue
+Array.prototype.lastIndexOf() | Array | Javascript
+Array.prototype.sort() | Array | Javascript
+scan(enumerable, acc, fun) | Enum | Elixir
+Object.isFrozen() | Object | Javascript
+random(enumerable) | Enum | Elixir
+map(enumerable, fun) | Enum | Elixir
+max_by(enumerable, fun, sorter \\ &>=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
+split(enumerable, count) | Enum | Elixir
+map_reduce(enumerable, acc, fun) | Enum | Elixir
+String.prototype.toUpperCase() | String | Javascript
+List | Types | Elixir
+Array.prototype.splice() | Array | Javascript
+Array.prototype.reduce() | Array | Javascript
+intersperse(enumerable, element) | Enum | Elixir
+Object.defineProperty() | Object | Javascript
+Date | General | Javascript
+reduce_while(enumerable, acc, fun) | Enum | Elixir
+Number.parseInt() | Number | Javascript
+filter(enumerable, fun) | Enum | Elixir
+sort(enumerable) | Enum | Elixir
+zip(enumerables) | Enum | Elixir
+Number.prototype.toString() | Number | Javascript
+scan(enumerable, fun) | Enum | Elixir
+split_while(enumerable, fun) | Enum | Elixir
+Array.prototype.shift() | Array | Javascript
+String.prototype.toLocaleLowerCase() | String | Javascript
+String.prototype.matchAll() | String | Javascript
+min_by(enumerable, fun, sorter \\ &<=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
+Async / Await | ES6 | Javascript
+Atom | Types | Elixir
+Number.isNaN() | Number | Javascript
+Object.create() | Object | Javascript
+String.prototype.indexOf() | String | Javascript
+Array.prototype.flatMap() | Array | Javascript
+Object.entries() | Object | Javascript
+slice(enumerable, index_range) | Enum | Elixir
+chunk_every(enumerable, count, step, leftover \\ []) | Enum | Elixir
+Array.prototype.filter() | Array | Javascript
+Props | General | Vue
+drop_while(enumerable, fun) | Enum | Elixir
+Computed Properties | General | Vue
+Array.prototype.values() | Array | Javascript
+Number.prototype.toExponential() | Number | Javascript
+min(enumerable, sorter \\ &<=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
+count(enumerable) | Enum | Elixir
+uniq(enumerable) | Enum | Elixir
+Array.prototype.indexOf() | Array | Javascript
+Array.prototype.concat() | Array | Javascript
+Maps | General | Javascript
+dedup_by(enumerable, fun) | Enum | Elixir
+shuffle(enumerable) | Enum | Elixir
+Array.prototype.entries() | Array | Javascript
+String.prototype.concat() | String | Javascript
+Array.prototype.copyWithin() | Array | Javascript
+Number.prototype.toFixed() | Number | Javascript
+Array.prototype.pop() | Array | Javascript
+Array.prototype.forEach() | Array | Javascript
+count(enumerable, fun) | Enum | Elixir
+String.prototype.match() | String | Javascript
+all?(enumerable, fun \\ fn x -> x end) | Enum | Elixir
+Array.prototype.includes() | Array | Javascript
+Object.getOwnPropertyDescriptors() | Object | Javascript
+Promise.all | ES6 | Javascript
+reduce(enumerable, acc, fun) | Enum | Elixir
+String.prototype.substring() | String | Javascript
+Filters | General | Vue
+Object.is() | Object | Javascript
+take_random(enumerable, count) | Enum | Elixir
+Array.prototype.toLocaleString() | Array | Javascript
+take_every(enumerable, nth) | Enum | Elixir
+Array.prototype.keys() | Array | Javascript
+each(enumerable, fun) | Enum | Elixir
+Object.freeze() | Object | Javascript
+flat_map(enumerable, fun) | Enum | Elixir
+Number.isInteger() | Number | Javascript
+find(enumerable, default \\ nil, fun) | Enum | Elixir
+Object.getPrototypeOf() | Object | Javascript
+dedup(enumerable) | Enum | Elixir
+Object.defineProperties() | Object | Javascript
+zip(enumerable1, enumerable2)  | Enum | Elixir
+Class Bindings | General | Vue
+map_every(enumerable, nth, fun) | Enum | Elixir
+Object.prototype.isPrototypeOf() | Object | Javascript
+Enum | Types | Elixir
+Array.prototype.find() | Array | Javascript
+Array.prototype.push() | Array | Javascript
+Data Rendering / Declarative Rendering | General | Vue
+min_max_by(enumerable, fun, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
+“for of” loop | ES6 | Javascript
+V-model | General | Vue
+Object.seal() | Object | Javascript
+V-if | General | Vue
+Array.prototype.some() | Array | Javascript
+split_with(enumerable, fun) | Enum | Elixir
+String.prototype.padEnd() | String | Javascript
+String.prototype.slice() | String | Javascript
+flat_map_reduce(enumerable, acc, fun) | Enum | Elixir
+String.prototype.trimEnd() | String | Javascript
+Object.prototype.toString() | Object | Javascript
+Pattern Matching | General | Elixir
+sort_by(enumerable, mapper, sorter \\ &<=/2) | Enum | Elixir
+Object.assign() | Object | Javascript
+Number.prototype.toLocaleString() | Number | Javascript
+member?(enumerable, element) | Enum | Elixir
+Stream | Types | Elixir
+into(enumerable, collectable, transform) | Enum | Elixir
+drop_every(enumerable, nth) | Enum | Elixir
+Array.prototype.reverse() | Array | Javascript
+group_by(enumerable, key_fun, value_fun \\ fn x -> x end) | Enum | Elixir
+Keyword | Types | Elixir
+Object.getOwnPropertyNames() | Object | Javascript
+concat(left, right) | Enum | Elixir
+Array.prototype.fill() | Array | Javascript
+min_max(enumerable, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
+Slots | General | Vue
+String.prototype.includes() | String | Javascript
+unzip(enumerable) | Enum | Elixir
+Number.isSafeInteger() | Number | Javascript
+String.prototype.charAt() | String | Javascript
+empty?(enumerable) | Enum | Elixir
+V-show | General | Vue
+fetch(enumerable, index) | Enum | Elixir
+Arrow Functions | ES6 | Javascript
+with_index(enumerable, offset \\ 0) | Enum | Elixir
+Spread Operator | ES6 | Javascript
+Parent / Child Communication | General | Vue
+Components | General | Vue
+Array.prototype.every() | Array | Javascript
+drop(enumerable, amount) | Enum | Elixir
+Array.from() | Array | Javascript
+Array.prototype.slice() | Array | Javascript
+reverse_slice(enumerable, start_index, count) | Enum | Elixir
+Number.parseFloat() | Number | Javascript
+sort(enumerable, fun) | Enum | Elixir
+Array.prototype.reduceRight() | Array | Javascript
+sum(enumerable) | Enum | Elixir
+Array.prototype.flat() | Array | Javascript
+String.prototype.split() | String | Javascript
+MapSet | Types | Elixir
+to_list(enumerable) | Enum | Elixir
+Object.prototype.toLocaleString() | Object | Javascript
+String.prototype.search() | String | Javascript
+String.prototype.endsWith() | String | Javascript
+String.prototype.replace() | String | Javascript
+Watchers | General | Vue
+into(enumerable, collectable) | Enum | Elixir
+Object.getOwnPropertySymbols() | Object | Javascript
+uniq_by(enumerable, fun) | Enum    Elixir
+Prototypal Inheritance | General | Javascript
