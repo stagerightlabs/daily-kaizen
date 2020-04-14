@@ -18,9 +18,11 @@ iex> Enum.take(["John Hackworth", "Gwendolyn Hackworth", "Fiona Hackworth"], 0)
 []
 ```
 
-The "/2" in "take/2" refers to the number of parameters the function accepts. (More about that some other time.)
-
 Remember that values in Elixir are immutable, so when using the `take/2` method the original enumerable is not affected, and the result is a brand new value stored separately in memory.
+
+The "/2" in `take/2`1 refers to the number of parameters the function accepts. (More about that some other time.)
+
+IEX is the interactive Elixir shell, which is a REPL similar to the console in your browser. If you [install Elixir](https://elixir-lang.org/install.html) on your system you can use IEX to experiment with Elixir.
 
 More here:
 
