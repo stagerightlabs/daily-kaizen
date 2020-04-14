@@ -1,4 +1,3 @@
-chunk_by(enumerable, fun) | Enum | Elixir
 String.prototype.normalize() | String | Javascript
 Template Strings | ES6 | Javascript
 Object.prototype.hasOwnProperty() | Object | Javascript
