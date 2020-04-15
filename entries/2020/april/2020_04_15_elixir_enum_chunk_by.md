@@ -1,7 +1,6 @@
+Topic of the Day: `chunk_by/2` from Elixir's `Enum` module.
 
-`chunk_by/2` from Elixir's `Enum` module.
-
-`chunk_by/2` accepts two parameters: an enumerable and a function.  It runs the function over each item in the enumarable and splits them into separate groups each time a different value is returned from the closure.
+`chunk_by/2` accepts two parameters: an enumerable and a function.  It runs the function over each item in the enumarable and groups them into separate lists each time a different value is returned from the closure.
 
 For example:
 
