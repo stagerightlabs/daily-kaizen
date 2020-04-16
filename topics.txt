@@ -1,5 +1,5 @@
-h() | General | Elixir
 Template Strings | ES6 | Javascript
+IO.inspect | General | Elixir
 Object.prototype.hasOwnProperty() | Object | Javascript
 reverse(enumerable) | Enum | Elixir
 concat(enumerables) | Enum | Elixir
