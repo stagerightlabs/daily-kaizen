@@ -20,5 +20,7 @@ var example = `This is a ${name} template literal`;
 
 It is also possible to customize how the interpolation is processed for each string by creating "tagged templates" but that is a bit beyond our scope.
 
+Note: This will only work in your browser if it supports ES6 syntax natively.  If not, you will need to use a build tool to convert your code into "plain" javascript before it can be run in your browser.
+
 More here:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
