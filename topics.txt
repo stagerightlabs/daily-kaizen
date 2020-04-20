@@ -1,4 +1,3 @@
-IO.inspect | General | Elixir
 Object.prototype.hasOwnProperty() | Object | Javascript
 reverse(enumerable) | Enum | Elixir
 concat(enumerables) | Enum | Elixir
