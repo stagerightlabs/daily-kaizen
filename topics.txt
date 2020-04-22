@@ -1,4 +1,3 @@
-reverse(enumerable) | Enum | Elixir
 concat(enumerables) | Enum | Elixir
 Set | General | Javascript
 Array.of() | Array | Javascript
@@ -20,7 +19,6 @@ Array.isArray() | Array | Javascript
 String.prototype.startsWith() | String | Javascript
 slice(enumerable, start_index, amount) | Enum | Elixir
 take_while(enumerable, fun) | Enum | Elixir
-reverse(enumerable, tail) | Enum | Elixir
 String.prototype.toLocaleUpperCase() | String | Javascript
 Array.prototype.findIndex() | Array | Javascript
 Object.isSealed() | Object | Javascript
