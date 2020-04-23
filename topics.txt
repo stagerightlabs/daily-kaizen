@@ -1,4 +1,3 @@
-concat(enumerables) | Enum | Elixir
 Set | General | Javascript
 Array.of() | Array | Javascript
 fetch!(enumerable, index) | Enum | Elixir
