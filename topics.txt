@@ -1,4 +1,4 @@
-Set | General | Javascript
+Iterators | General | Javascript
 Array.of() | Array | Javascript
 fetch!(enumerable, index) | Enum | Elixir
 find_index(enumerable, fun) | Enum | Elixir
