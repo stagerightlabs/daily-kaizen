@@ -1,4 +1,3 @@
-Array.of() | Array | Javascript
 fetch!(enumerable, index) | Enum | Elixir
 find_index(enumerable, fun) | Enum | Elixir
 Array.prototype.unshift() | Array | Javascript
