@@ -1,6 +1,6 @@
 Topic of the Day: Javascript's `Array.of()` method.
 
-The `Array.of` method provides a quick way to generate an array, or convert existing data into an array.
+The `Array.of` method provides a quick way to generate a new array or convert existing data into an array.
 
 For example:
 
@@ -20,7 +20,7 @@ Array(3)
 // [ undefined, undefined, undefined ]
 ```
 
-This method seems simple but it can be surprisingly useful.  Often when you are working with the DOM you might end up with a `NodeList` representing a set of nodes. Sometimes you may actually want to convert it into an array to manipulate it with array methods:
+This method seems simple but it can be surprisingly useful. Often when you are working with the DOM you might end up with a `NodeList` representing a set of nodes. Sometimes you may actually want to convert it into an array to manipulate it with array methods:
 
 ```
 let tree = document.querySelectorAll('.hello')
