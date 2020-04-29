@@ -1,10 +1,10 @@
 Topic of the Day: Iterators in Javascript
 
-Iterators are relatively new to Javascript; but they have been around in other languages for a long time.
+Iterators are relatively new to Javascript but they have been around in other languages for a long time.
 
-Of course, the idea of iterating over a set of data is not new at all. Given an array of data we can use a `for` loop to cycle through each entry in that array. This is very convenient and we do it all the time.  Similarly, `map`, `filter` and numerous other methods do essentially the same thing. They traverse an array and perform actions on the members of that array.
+The idea of iterating over a set of data is not new. We can use a `for` loop to cycle through each entry in an array. Similarly, `map`, `filter` and numerous other methods do essentially the same thing; they traverse an array and perform actions on the members of that array.
 
-What happens if we want to iterate over a complex data object with nested structures?  Using a `for` loop, or any other language construct, in that situation is much less straight forward. Iterators are intended to solve that problem.  They are a tool that will let us design how iteration should occur across our complex custom data structure.
+What happens if we want to iterate over a complex data object with nested structures?  Using a `for` loop in that situation is much less straight forward; what exactly are we looping over?
 
 Imagine a data structure like this:
 
@@ -30,7 +30,7 @@ const library = {
 }
 ```
 
-We could iterate over all of the books in this library object by looping over the `library.books` array, or we could turn the library object itself into an "iterable", that is, something that can be iterated over.  To do that we implement a function on the object with a special name (`[Symbol.iterator]`) and set it up to return an iterator.
+We could iterate over all of the books in this library object by looping over the `library.books` array, or we could turn the library object itself into an "iterable"; something that can be iterated over.  To do that we implement a function on the object with a special name (`[Symbol.iterator]`) and set it up to return an iterator.
 
 ```
 const library = {
@@ -52,9 +52,7 @@ const library = {
 }
 ```
 
-An iterator is not actually all that complex. All you need to do to create an iterator is set up an object that implements a very simple contract. (That is to say, it has a set of functions that match some outside expectations. In Javascript these contracts are called "protocols" - more about this in the future.)
-
-To be an iterator, all you need is a `next()` function that returns an object with two keys: `value`, representing the next value, and `done` a boolean that tells us whether or not this value is the last value in the sequence.  From there, you have two options for using your iterator:
+To be an iterator, all you need is a `next()` function that returns an object with two keys: `value`, representing the next value and `done`, a boolean that tells us whether or not this value is the last value in the sequence.  From there, you have two options for using your iterator:
 
 ```
 // Manual iteration
