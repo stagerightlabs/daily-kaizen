@@ -1,4 +1,4 @@
-fetch!(enumerable, index) | Enum | Elixir
+
 find_index(enumerable, fun) | Enum | Elixir
 Array.prototype.unshift() | Array | Javascript
 any?(enumerable, fun \\ fn x -> x end) | Enum | Elixir
@@ -172,7 +172,6 @@ Number.isSafeInteger() | Number | Javascript
 String.prototype.charAt() | String | Javascript
 empty?(enumerable) | Enum | Elixir
 V-show | General | Vue
-fetch(enumerable, index) | Enum | Elixir
 Arrow Functions | ES6 | Javascript
 with_index(enumerable, offset \\ 0) | Enum | Elixir
 Spread Operator | ES6 | Javascript
