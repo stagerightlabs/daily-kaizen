@@ -8,7 +8,8 @@ For example:
 iex> Enum.fetch(["a", "b", "c", "d"], 2)
 {:ok, "c"}
 ```
-There are two important things to take note of here. 1) The index value is zero based, meaning that "a" is at index zero, "b" is at index 1 and so on.  2) The return value is a tuple containing a status atom and the value itself.
+
+There are two important things to take note of here: 1) The index value is zero based, meaning that "a" is at index zero, "b" is at index 1 and so on.  2) The return value is a tuple containing a status atom and the value itself.
 
 What would happen if we requested an index that does not exist?
 
