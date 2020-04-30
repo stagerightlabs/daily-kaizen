@@ -1,5 +1,3 @@
-
-find_index(enumerable, fun) | Enum | Elixir
 Array.prototype.unshift() | Array | Javascript
 any?(enumerable, fun \\ fn x -> x end) | Enum | Elixir
 String.prototype.charCodeAt() | String | Javascript
