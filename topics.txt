@@ -1,4 +1,3 @@
-any?(enumerable, fun \\ fn x -> x end) | Enum | Elixir
 String.prototype.charCodeAt() | String | Javascript
 Number.prototype.toPrecision() | Number | Javascript
 String.prototype.trim() | String | Javascript
