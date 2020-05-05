@@ -1,4 +1,4 @@
-String.prototype.charCodeAt() | String | Javascript
+
 Number.prototype.toPrecision() | Number | Javascript
 String.prototype.trim() | String | Javascript
 find_value(enumerable, default \\ nil, fun) | Enum | Elixir
