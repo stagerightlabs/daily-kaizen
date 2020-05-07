@@ -10,9 +10,9 @@ example.charCodeAt(1)
 // 101 (aka "e")
 ```
 
-The indexing is zero based. The character at index zero in this example is "H"
+The indexing is zero based. The character at index zero in this example is "H".
 
-The character codes come from UTF-16, a character encoding scheme. UTF-16 can be quite complicated; a whole topic unto itself, but most common english language characters in that system are represented by their ASCII codes: http://www.asciitable.com/
+The character codes come from UTF-16, an encoding scheme. UTF-16 can be quite complicated; a whole topic unto itself, but most common english language characters in that system are represented by their ASCII codes: http://www.asciitable.com/
 
 More here:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt
