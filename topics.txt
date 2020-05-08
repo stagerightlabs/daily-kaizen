@@ -1,4 +1,3 @@
-find_value(enumerable, default \\ nil, fun) | Enum | Elixir
 String.prototype.codePointAt() | String | Javascript
 reject(enumerable, fun) | Enum | Elixir
 Proxy | General | Javascript
@@ -8,6 +7,7 @@ String.prototype.lastIndexOf() | String | Javascript
 Array.isArray() | Array | Javascript
 String.prototype.startsWith() | String | Javascript
 slice(enumerable, start_index, amount) | Enum | Elixir
+Mental Models
 Protocols | General | Javascript
 take_while(enumerable, fun) | Enum | Elixir
 String.prototype.toLocaleUpperCase() | String | Javascript
