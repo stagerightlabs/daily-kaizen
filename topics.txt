@@ -1,4 +1,3 @@
-reject(enumerable, fun) | Enum | Elixir
 Proxy | General | Javascript
 String.prototype.repeat() | String | Javascript
 Rest Operator | ES6 | Javascript
