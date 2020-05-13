@@ -1,6 +1,5 @@
 Proxy | General | Javascript
 String.prototype.repeat() | String | Javascript
-Rest Operator | ES6 | Javascript
 String.prototype.lastIndexOf() | String | Javascript
 Array.isArray() | Array | Javascript
 String.prototype.startsWith() | String | Javascript
