@@ -15,3 +15,4 @@ str.repeat(-1)
 ```
 
 Not much complexity to this one.   More here:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
