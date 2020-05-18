@@ -1,5 +1,4 @@
 Proxy | General | Javascript
-String.prototype.lastIndexOf() | String | Javascript
 Array.isArray() | Array | Javascript
 slice(enumerable, start_index, amount) | Enum | Elixir
 Mental Models
