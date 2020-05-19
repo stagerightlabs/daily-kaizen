@@ -1,6 +1,6 @@
 Topic of the Day: Javascript's `String.prototype.lastIndexOf()`
 
-The `lastIndexOf()` method searches through a string from back to front, looking for a substring provided by the user.  If it finds the substring it will return the index of that substring, if it doesn't then it will return -1.
+The `lastIndexOf()` method searches through a string from back to front, looking for a substring provided by the user.  If found, it will return the index of that substring, if not it will return -1.
 
 For Example:
 
