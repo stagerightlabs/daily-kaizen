@@ -1,4 +1,3 @@
-Proxy | General | Javascript
 Array.isArray() | Array | Javascript
 slice(enumerable, start_index, amount) | Enum | Elixir
 Mental Models
@@ -29,6 +28,7 @@ frequencies(enumerable) | Enum | Elixir
 Object.fromEntries() | Object | Javascript
 Promises | ES6 | Javascript
 reduce(enumerable, fun) | Enum | Elixir
+Reflection | ES6 | Javascript
 Map | Types | Elixir
 map_join(enumerable, joiner \\ "", mapper) | Enum | Elixir
 max(enumerable, sorter \\ &>=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
