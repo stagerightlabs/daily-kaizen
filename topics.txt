@@ -1,5 +1,4 @@
 Array.isArray() | Array | Javascript
-slice(enumerable, start_index, amount) | Enum | Elixir
 Mental Models
 Protocols | General | Javascript
 take_while(enumerable, fun) | Enum | Elixir
