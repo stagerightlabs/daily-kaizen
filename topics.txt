@@ -2,7 +2,6 @@ Mental Models
 Protocols | General | Javascript
 take_while(enumerable, fun) | Enum | Elixir
 String.prototype.toLocaleUpperCase() | String | Javascript
-Array.prototype.findIndex() | Array | Javascript
 Object.isSealed() | Object | Javascript
 String.prototype.trimStart() | String | Javascript
 Array.prototype.join() | Array | Javascript
