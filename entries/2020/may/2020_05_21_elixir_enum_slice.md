@@ -1,8 +1,8 @@
 Topic of the Day: `slice/2` and `slice/3` from Elixir's Enum module
 
-The slice function is very similar to the array slice method in Javascript.  Given an enumerable it will return a list of elements from that enumerable based on your specifications.   There are two versions of slice in Elixir's Enum module:
+The slice function is very similar to the array slice method in Javascript. Given an enumerable it will return a list of elements from that enumerable based on your specifications. There are two versions of slice in Elixir's Enum module:
 
-`slice/2` accepts an enum and a range and returns the list of elements at the indexes specified by the range. In elixir a "range" is a shorthand method for listing a series of sequential values, using the ".." operator.  The range of numbers from one to ten could be represented like this:  `1..10`.  It is also possible to use ranges with characters but there are additional steps involved.
+`slice/2` accepts an enum and a range and returns the list of elements at the indexes specified by the range. In elixir a "range" is a shorthand method for listing a series of sequential values, using the ".." operator. The range of numbers from one to ten could be represented like this:  `1..10`. It is also possible to use ranges with characters but there are additional steps involved.
 
 Back to `slice/2`:
 
