@@ -1,8 +1,8 @@
+Object.seal() | Object | Javascript
 Mental Models
 Protocols | General | Javascript
 take_while(enumerable, fun) | Enum | Elixir
 String.prototype.toLocaleUpperCase() | String | Javascript
-Object.isSealed() | Object | Javascript
 String.prototype.trimStart() | String | Javascript
 Array.prototype.join() | Array | Javascript
 String.prototype.localeCompare() | String | Javascript
@@ -125,7 +125,7 @@ Data Rendering / Declarative Rendering | General | Vue
 min_max_by(enumerable, fun, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
 “for of” loop | ES6 | Javascript
 V-model | General | Vue
-Object.seal() | Object | Javascript
+Object.isSealed() | Object | Javascript
 V-if | General | Vue
 Array.prototype.some() | Array | Javascript
 split_with(enumerable, fun) | Enum | Elixir
