@@ -20,17 +20,13 @@ let index = arr.findIndex(color => color == "hot pink")
 // -1
 ```
 
-I tend to use this quite often when I need to manipulate the contents of an array.  Use `findIndex` to determine where a value is in the array and then use `slice` to remove it or insert addtional values at that location - it can be quite helpful.
-
-The callback will be provided three values, if you need them:
+The callback will be provided three values, if you need them.  This is helpful if you need more sophisticated logic in your lookup function:
 
 ```
 let index = arr.findIndex((element, index, array) => {
     // do something
 })
 ```
-
-This is helpful if you need more sophisticated logic in your lookup function.
 
 More here:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
