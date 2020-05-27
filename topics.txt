@@ -1,7 +1,5 @@
-Object.seal() | Object | Javascript
 Mental Models
 Protocols | General | Javascript
-take_while(enumerable, fun) | Enum | Elixir
 String.prototype.toLocaleUpperCase() | String | Javascript
 String.prototype.trimStart() | String | Javascript
 Array.prototype.join() | Array | Javascript
