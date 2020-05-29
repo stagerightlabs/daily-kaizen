@@ -52,7 +52,6 @@ reduce_while(enumerable, acc, fun) | Enum | Elixir
 Number.parseInt() | Number | Javascript
 filter(enumerable, fun) | Enum | Elixir
 sort(enumerable) | Enum | Elixir
-zip(enumerables) | Enum | Elixir
 Number.prototype.toString() | Number | Javascript
 scan(enumerable, fun) | Enum | Elixir
 split_while(enumerable, fun) | Enum | Elixir
