@@ -32,7 +32,6 @@ at(enumerable, index, default \\ nil) | Enum | Elixir
 Style Bindings | General | Vue
 join(enumerable, joiner \\ "") | Enum | Elixir
 Event Modifiers | General | Vue
-Array.prototype.lastIndexOf() | Array | Javascript
 Array.prototype.sort() | Array | Javascript
 scan(enumerable, acc, fun) | Enum | Elixir
 Object.isFrozen() | Object | Javascript
