@@ -24,3 +24,6 @@ You can also specify an index to start the search at. Keep in mind that the meth
 console.log(letters.lastIndexOf("a", 2))
 // 0
 ```
+
+More here:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf
