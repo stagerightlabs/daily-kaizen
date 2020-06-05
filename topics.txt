@@ -1,4 +1,3 @@
-Mental Models
 Protocols | General | Javascript
 String.prototype.toLocaleUpperCase() | String | Javascript
 String.prototype.trimStart() | String | Javascript
