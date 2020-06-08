@@ -4,7 +4,7 @@ The brain is a remarkable organ that does wonderful things. With the world as co
 
 When you are coding you create a mental model of your work in your head and that guides how you interact with your codebase. When you are learning something new you are constructing new models in your mind and testing their accuracy through trial and error.  Generally speaking, the more accurate your mental models and the more types of models you have at your disposal, the easier it will be for you to make decisions that prove fruitful.
 
-If you haven't already, you may find "thinking about thinking" to be a useful endeavor. Everyone creates their own unique mental models but as it happens there are quite a few that tend to be commonly used by many people whether they realize it or not. Lots of people share about mental models online and you may find it interesting to see if there are any out there that you can add to your tool belt.
+If you don't already, you may find "thinking about thinking" to be interesting. Everyone creates their own unique mental models but as it happens there are quite a few that tend to be commonly used by many people whether or not they realize so. Lots of people share about mental models online and you may find it interesting to keep an eye out for new ones that you can add to your tool belt.
 
 More here:
 https://fs.blog/mental-models/
