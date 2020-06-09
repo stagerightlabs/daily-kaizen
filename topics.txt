@@ -8,7 +8,6 @@ Array.prototype.map() | Array | Javascript
 Arity | General | Elixir
 Array.prototype.toString() | Array | Javascript
 frequencies_by(enumerable, key_fun) | Enum | Elixir
-Number.isFinite() | Number | Javascript
 Class Inheritance | General | Javascript
 let vs const vs var | ES6 | Javascript
 V-on | General | Vue
@@ -25,7 +24,6 @@ map_join(enumerable, joiner \\ "", mapper) | Enum | Elixir
 max(enumerable, sorter \\ &>=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
 map_intersperse(enumerable, separator, mapper) | Enum | Elixir
 String.prototype.toString() | String | Javascript
-at(enumerable, index, default \\ nil) | Enum | Elixir
 Style Bindings | General | Vue
 join(enumerable, joiner \\ "") | Enum | Elixir
 Event Modifiers | General | Vue
