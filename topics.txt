@@ -34,7 +34,6 @@ map(enumerable, fun) | Enum | Elixir
 max_by(enumerable, fun, sorter \\ &>=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
 split(enumerable, count) | Enum | Elixir
 map_reduce(enumerable, acc, fun) | Enum | Elixir
-String.prototype.toUpperCase() | String | Javascript
 List | Types | Elixir
 Array.prototype.splice() | Array | Javascript
 Array.prototype.reduce() | Array | Javascript
