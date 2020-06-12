@@ -41,7 +41,6 @@ intersperse(enumerable, element) | Enum | Elixir
 Object.defineProperty() | Object | Javascript
 Date | General | Javascript
 reduce_while(enumerable, acc, fun) | Enum | Elixir
-Number.parseInt() | Number | Javascript
 filter(enumerable, fun) | Enum | Elixir
 sort(enumerable) | Enum | Elixir
 Number.prototype.toString() | Number | Javascript
