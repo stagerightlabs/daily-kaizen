@@ -29,7 +29,6 @@ join(enumerable, joiner \\ "") | Enum | Elixir
 Event Modifiers | General | Vue
 Array.prototype.sort() | Array | Javascript
 scan(enumerable, acc, fun) | Enum | Elixir
-Object.isFrozen() | Object | Javascript
 map(enumerable, fun) | Enum | Elixir
 max_by(enumerable, fun, sorter \\ &>=/2, empty_fallback \\ fn -> raise(Enum.EmptyError) end) | Enum | Elixir
 split(enumerable, count) | Enum | Elixir
