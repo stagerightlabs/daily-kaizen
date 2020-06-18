@@ -13,7 +13,6 @@ Object.isExtensible() | Object | Javascript
 chunk_while(enumerable, acc, chunk_fun, after_fun) | Enum | Elixir
 V-for | General | Vue
 frequencies(enumerable) | Enum | Elixir
-Object.fromEntries() | Object | Javascript
 Promises | ES6 | Javascript
 reduce(enumerable, fun) | Enum | Elixir
 Reflection | ES6 | Javascript
