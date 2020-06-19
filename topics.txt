@@ -39,7 +39,6 @@ reduce_while(enumerable, acc, fun) | Enum | Elixir
 filter(enumerable, fun) | Enum | Elixir
 sort(enumerable) | Enum | Elixir
 Number.prototype.toString() | Number | Javascript
-scan(enumerable, fun) | Enum | Elixir
 split_while(enumerable, fun) | Enum | Elixir
 Array.prototype.shift() | Array | Javascript
 String.prototype.toLocaleLowerCase() | String | Javascript
